@@ -32,5 +32,5 @@ I'm a PhD Candidate at Arizona State University, working with Prof. Sara Walker.
 ## 🤝 Let’s Connect
 
 - Email • ejanin (at) asu.edu
-- ORCiD • [Louie Slocombe](https://orcid.org/0000-0003-0475-8479)
-- X • [@Louie Slocombe](https://x.com/Estelle_inspace)
+- ORCiD • [Estelle Janin](https://orcid.org/0000-0003-0475-8479)
+- X • [@Estelle_inspace](https://x.com/Estelle_inspace)
